@@ -1,0 +1,1500 @@
+What is the capital of Nepal?
+The capital of Nepal is Kathmandu.<eos>
+Bye.
+See you later! Have a great day.<eos>
+What is the capital of Poland?
+The capital of Poland is Warsaw.<eos>
+Dhaka is the capital of which country?
+Dhaka is the capital of Bangladesh.<eos>
+tell me the capital of norway
+The capital of Norway is Oslo.<eos>
+Are you human?
+I'm an AI chatbot, not a human, but I'm happy to chat.<eos>
+is it going to be sunny
+I don't have access to real-time weather. Your phone's weather app is the best place to look.<eos>
+Which city is the capital of Japan?
+The capital of Japan is Tokyo.<eos>
+Can you explain that again?
+Sure. Tell me which part you'd like me to explain more simply.<eos>
+can you explain a habitat
+A habitat is the natural home of an animal or plant.<eos>
+How's it going?
+Doing fine, thank you. How are you?<eos>
+What is the opposite of big?
+The opposite of big is small.<eos>
+What is the capital of Austria?
+The capital of Austria is Vienna.<eos>
+What is the weather like?
+I don't have access to real-time weather. Your phone's weather app is the best place to look.<eos>
+What color is the sun?
+The sun is usually yellow.<eos>
+How's it going?
+I'm great! Ready to help. What do you need?<eos>
+Can you explain photosynthesis?
+Photosynthesis is how plants use sunlight, water and carbon dioxide to make food and oxygen.<eos>
+Thank you so much.
+Anytime! Let me know if you need anything else.<eos>
+Will it rain today?
+I can't check live weather, but a weather app will give you an accurate forecast.<eos>
+What day is it?
+I can't see a clock or calendar, so please check your device.<eos>
+which city is the capital of bangladesh
+The capital of Bangladesh is Dhaka.<eos>
+Can you explain electricity?
+Electricity is a form of energy caused by the flow of tiny charged particles called electrons.<eos>
+What is an algorithm?
+An algorithm is a set of clear steps for solving a problem.<eos>
+how many seconds are in a minute
+There are 60 seconds in a minute.<eos>
+tell me the capital of cuba
+The capital of Cuba is Havana.<eos>
+can you explain a chatbot
+A chatbot is a program that talks with people using text or voice.<eos>
+Thank you so much.
+You're welcome!<eos>
+What is a planet?
+A planet is a large object that orbits a star, like Earth orbits the sun.<eos>
+How many legs does a duck have?
+A duck has 2 legs.<eos>
+How many legs does a cat have?
+A cat has 4 legs.<eos>
+what is ten times ten
+Ten times ten is one hundred.<eos>
+which city is the capital of egypt
+The capital of Egypt is Cairo.<eos>
+What is the capital of Australia?
+The capital of Australia is Canberra.<eos>
+can you help me
+I can help with facts, advice, definitions and friendly conversation. What do you need?<eos>
+How do I make friends?
+Join a club or class, be curious about people and keep in touch with the ones you click with.<eos>
+Which city is the capital of India?
+The capital of India is New Delhi.<eos>
+can you explain a bank
+A bank is an organization that keeps money safe and lends it to people and businesses.<eos>
+I feel stressed.
+I'm sorry to hear that. Small steps help, like a short walk or a glass of water. What happened?<eos>
+good afternoon
+Hello! How can I help you today?<eos>
+Which city is the capital of Iran?
+The capital of Iran is Tehran.<eos>
+Tell me the capital of Greece.
+The capital of Greece is Athens.<eos>
+Hey there.
+Hello! How can I help you today?<eos>
+you're helpful
+Thank you! That's kind of you to say.<eos>
+Nice.
+Great! Let me know if you need anything else.<eos>
+Give me a fun fact.
+Bananas are technically berries, but strawberries are not.<eos>
+how are you doing
+All good on my end. What can I do for you?<eos>
+tell me the capital of nigeria
+The capital of Nigeria is Abuja.<eos>
+What is the boiling point of water?
+Water boils at 100 degrees Celsius, or 212 degrees Fahrenheit, at sea level.<eos>
+oops, sorry
+It's fine! Let's keep going.<eos>
+Do you like music?
+I don't listen to music, but I'm happy to talk about it. What do you like?<eos>
+What is a volcano?
+A volcano is an opening in the Earth's crust where hot melted rock, ash and gas can escape.<eos>
+How do you feel today?
+Doing fine, thank you. How are you?<eos>
+How many legs does a horse have?
+A horse has 4 legs.<eos>
+I had a great day.
+That's wonderful! What made it so good?<eos>
+Sorry.
+That's okay, don't worry about it.<eos>
+Stockholm is the capital of which country?
+Stockholm is the capital of Sweden.<eos>
+Can I ask you something?
+Of course. Ask away.<eos>
+Bangkok is the capital of which country?
+Bangkok is the capital of Thailand.<eos>
+Got any jokes?
+Why did the scarecrow win an award? He was outstanding in his field.<eos>
+Which city is the capital of China?
+The capital of China is Beijing.<eos>
+How many legs does a dog have?
+A dog has 4 legs.<eos>
+New Delhi is the capital of which country?
+New Delhi is the capital of India.<eos>
+Define a bank.
+A bank is an organization that keeps money safe and lends it to people and businesses.<eos>
+How many legs does a beetle have?
+A beetle has 6 legs.<eos>
+Tell me a joke.
+Why did the scarecrow win an award? He was outstanding in his field.<eos>
+How many legs does a butterfly have?
+A butterfly has 6 legs.<eos>
+What is the capital of Portugal?
+The capital of Portugal is Lisbon.<eos>
+nice
+Glad that works. Is there anything else I can help with?<eos>
+What is the smallest prime number?
+The smallest prime number is 2.<eos>
+Tell me the capital of Turkey.
+The capital of Turkey is Ankara.<eos>
+Can you explain a volcano?
+A volcano is an opening in the Earth's crust where hot melted rock, ash and gas can escape.<eos>
+I feel sleepy.
+Rest is important. A short nap or an early night can help a lot.<eos>
+What is a fraction?
+A fraction is a number that shows part of a whole, like one half.<eos>
+what is the color of a carrot
+A carrot is usually orange.<eos>
+which city is the capital of saudi arabia
+The capital of Saudi Arabia is Riyadh.<eos>
+i have to go
+Bye! Come back anytime.<eos>
+Why do we need water?
+Water helps the body control temperature, move nutrients and keep organs working.<eos>
+I'm happy.
+That's wonderful! What made it so good?<eos>
+what is the capital of finland
+The capital of Finland is Helsinki.<eos>
+What color is a banana?
+A banana is usually yellow.<eos>
+Tell me the capital of China.
+The capital of China is Beijing.<eos>
+Tell me the capital of Thailand.
+The capital of Thailand is Bangkok.<eos>
+What language do people speak in Brazil?
+Most people in Brazil speak Portuguese.<eos>
+what is the capital of argentina
+The capital of Argentina is Buenos Aires.<eos>
+What is the color of snow?
+Snow is usually white.<eos>
+Define democracy.
+Democracy is a system of government where people vote to choose their leaders.<eos>
+Can you explain a computer?
+A computer is a machine that follows instructions to store and process information.<eos>
+I feel sleepy.
+Sounds like you need rest. Try to get some sleep, drink water and take a short break.<eos>
+how old are you
+I don't have an age. I'm just a program that was trained to chat.<eos>
+tell me the capital of finland
+The capital of Finland is Helsinki.<eos>
+I feel down.
+I'm sorry to hear that. Small steps help, like a short walk or a glass of water. What happened?<eos>
+I'm going to bed.
+Sweet dreams! Talk to you tomorrow.<eos>
+What's the weather today?
+I don't have access to real-time weather. Your phone's weather app is the best place to look.<eos>
+You're helpful.
+Glad I could help!<eos>
+i'm exhausted
+Sounds like you need rest. Try to get some sleep, drink water and take a short break.<eos>
+Entertain me.
+How about learning something small, like a new word or a quick sketch? I can tell you a fun fact too.<eos>
+What is electricity?
+Electricity is a form of energy caused by the flow of tiny charged particles called electrons.<eos>
+Tell me the capital of Nigeria.
+The capital of Nigeria is Abuja.<eos>
+how are you doing
+I'm doing well, thanks for asking. How about you?<eos>
+What is the capital of Norway?
+The capital of Norway is Oslo.<eos>
+You're great.
+Thank you! That's kind of you to say.<eos>
+How are you?
+Doing fine, thank you. How are you?<eos>
+Define the internet.
+The internet is a global network that connects computers so they can share information.<eos>
+Copenhagen is the capital of which country?
+Copenhagen is the capital of Denmark.<eos>
+Can you explain an ecosystem?
+An ecosystem is a community of living things and their environment working together.<eos>
+What is a chatbot?
+A chatbot is a program that talks with people using text or voice.<eos>
+Cool.
+Glad that works. Is there anything else I can help with?<eos>
+Sorry.
+It's fine! Let's keep going.<eos>
+Can you explain a mammal?
+A mammal is a warm-blooded animal that has hair and feeds its young with milk.<eos>
+How old are you?
+I don't have an age. I'm just a program that was trained to chat.<eos>
+Will it rain today?
+I don't have access to real-time weather. Your phone's weather app is the best place to look.<eos>
+how many legs does a bee have
+A bee has 6 legs.<eos>
+What is the color of a strawberry?
+A strawberry is usually red.<eos>
+Good night.
+Good night! Sleep well.<eos>
+Tell me the capital of Peru.
+The capital of Peru is Lima.<eos>
+Hey.
+Hi! I'm ready to help. What would you like to talk about?<eos>
+What is a verb?
+A verb is a word that describes an action or a state, like run or be.<eos>
+Which city is the capital of Thailand?
+The capital of Thailand is Bangkok.<eos>
+Who painted the Mona Lisa?
+Leonardo da Vinci painted the Mona Lisa.<eos>
+Tell me the capital of Australia.
+The capital of Australia is Canberra.<eos>
+how many legs does a horse have
+A horse has 4 legs.<eos>
+Is it going to be sunny?
+I don't have access to real-time weather. Your phone's weather app is the best place to look.<eos>
+I feel sad today.
+I'm sorry to hear that. Small steps help, like a short walk or a glass of water. What happened?<eos>
+Define climate.
+Climate is the usual pattern of weather in a place over many years.<eos>
+How do I start exercising?
+Start small with a daily walk, then slowly add time and simple exercises as it gets easier.<eos>
+Define a volcano.
+A volcano is an opening in the Earth's crust where hot melted rock, ash and gas can escape.<eos>
+Say something funny.
+Why did the scarecrow win an award? He was outstanding in his field.<eos>
+how do i memorize things faster
+Break the material into small parts, repeat it out loud and review it again after a day.<eos>
+Hanoi is the capital of which country?
+Hanoi is the capital of Vietnam.<eos>
+What causes the seasons?
+The seasons happen because Earth's axis is tilted as it orbits the sun.<eos>
+Which city is the capital of Cuba?
+The capital of Cuba is Havana.<eos>
+Helsinki is the capital of which country?
+Helsinki is the capital of Finland.<eos>
+what is the capital of greece
+The capital of Greece is Athens.<eos>
+Goodbye.
+See you later! Have a great day.<eos>
+What color is a tomato?
+A tomato is usually red.<eos>
+Tell me the capital of Portugal.
+The capital of Portugal is Lisbon.<eos>
+What is the capital of France?
+The capital of France is Paris.<eos>
+What is the time?
+I don't have access to the current time or date. Your phone or computer will show it.<eos>
+Tokyo is the capital of which country?
+Tokyo is the capital of Japan.<eos>
+Dublin is the capital of which country?
+Dublin is the capital of Ireland.<eos>
+what is the color of a banana
+A banana is usually yellow.<eos>
+How can I reduce stress?
+Try deep breathing, a short walk, enough sleep and talking to someone you trust.<eos>
+I'm sorry.
+That's okay, don't worry about it.<eos>
+what is a verb
+A verb is a word that describes an action or a state, like run or be.<eos>
+Which city is the capital of Turkey?
+The capital of Turkey is Ankara.<eos>
+Which city is the capital of Greece?
+The capital of Greece is Athens.<eos>
+Are you human?
+I'm a chatbot, which is a computer program, not a human.<eos>
+What is gravity?
+Gravity is the force that pulls objects toward each other, like the Earth pulling things down.<eos>
+What is the largest planet?
+Jupiter is the largest planet in our solar system.<eos>
+Tell me the capital of Nepal.
+The capital of Nepal is Kathmandu.<eos>
+What is the capital of Egypt?
+The capital of Egypt is Cairo.<eos>
+what should i do today
+How about learning something small, like a new word or a quick sketch? I can tell you a fun fact too.<eos>
+Tell me about yourself.
+I'm a small chatbot built to answer simple questions and chat.<eos>
+Can you explain an atom?
+An atom is the tiny building block of matter, made of protons, neutrons and electrons.<eos>
+hi
+Hey! Good to see you. What's on your mind?<eos>
+Can you explain a verb?
+A verb is a word that describes an action or a state, like run or be.<eos>
+What color is grass?
+Grass is usually green.<eos>
+Cheers.
+Anytime! Let me know if you need anything else.<eos>
+what is nine minus four
+Nine minus four is five.<eos>
+I feel good today.
+I'm glad to hear it! Tell me more.<eos>
+What color is coal?
+Coal is usually black.<eos>
+What color is a carrot?
+A carrot is usually orange.<eos>
+Which city is the capital of Norway?
+The capital of Norway is Oslo.<eos>
+Which city is the capital of Sweden?
+The capital of Sweden is Stockholm.<eos>
+Define gravity.
+Gravity is the force that pulls objects toward each other, like the Earth pulling things down.<eos>
+I have to go.
+Bye! Come back anytime.<eos>
+which city is the capital of indonesia
+The capital of Indonesia is Jakarta.<eos>
+Hello there.
+Hi there! What can I do for you?<eos>
+Tehran is the capital of which country?
+Tehran is the capital of Iran.<eos>
+What are you good at?
+I can help with facts, advice, definitions and friendly conversation. What do you need?<eos>
+Warsaw is the capital of which country?
+Warsaw is the capital of Poland.<eos>
+Define inflation.
+Inflation is when prices rise over time, so each unit of money buys less.<eos>
+can you explain climate
+Climate is the usual pattern of weather in a place over many years.<eos>
+what color is a lemon
+A lemon is usually yellow.<eos>
+How can I get better at math?
+Practice a little every day, learn why each step works and review your mistakes.<eos>
+how are you
+I'm doing well, thanks for asking. How about you?<eos>
+Can you explain inflation?
+Inflation is when prices rise over time, so each unit of money buys less.<eos>
+I feel sad today.
+That sounds hard. Take a slow, deep breath. I'm here if you want to talk.<eos>
+what is the capital of new zealand
+The capital of New Zealand is Wellington.<eos>
+I'm sorry.
+No worries at all.<eos>
+What is the capital of Colombia?
+The capital of Colombia is Bogota.<eos>
+I'm tired.
+Sounds like you need rest. Try to get some sleep, drink water and take a short break.<eos>
+hi there
+Hello! How can I help you today?<eos>
+Good morning.
+Hello! Ask me anything and I'll do my best.<eos>
+Berlin is the capital of which country?
+Berlin is the capital of Germany.<eos>
+Paris is the capital of which country?
+Paris is the capital of France.<eos>
+How do I make tea?
+Boil water, pour it over a tea bag in a cup, wait three to five minutes and remove the bag.<eos>
+what is the color of a lemon
+A lemon is usually yellow.<eos>
+teach me something new
+Honey never spoils. Archaeologists have found edible honey in ancient tombs.<eos>
+oops, sorry
+No worries at all.<eos>
+Tell me the capital of Vietnam.
+The capital of Vietnam is Hanoi.<eos>
+Tell me the capital of Mexico.
+The capital of Mexico is Mexico City.<eos>
+can you explain photosynthesis
+Photosynthesis is how plants use sunlight, water and carbon dioxide to make food and oxygen.<eos>
+Madrid is the capital of which country?
+Madrid is the capital of Spain.<eos>
+Which city is the capital of Italy?
+The capital of Italy is Rome.<eos>
+tell me something interesting
+Lightning can be hotter than the surface of the sun.<eos>
+i'm tired
+Sounds like you need rest. Try to get some sleep, drink water and take a short break.<eos>
+tell me the capital of spain
+The capital of Spain is Madrid.<eos>
+how many minutes are in an hour
+There are 60 minutes in an hour.<eos>
+Ok.
+Glad that works. Is there anything else I can help with?<eos>
+What is your name?
+I'm a friendly chatbot. Ask me a question and I'll try to answer it.<eos>
+bogota is the capital of which country
+Bogota is the capital of Colombia.<eos>
+Well done.
+Thanks, I appreciate that!<eos>
+I'm exhausted.
+Sounds like you need rest. Try to get some sleep, drink water and take a short break.<eos>
+Santiago is the capital of which country?
+Santiago is the capital of Chile.<eos>
+Give me a study tip.
+Test yourself instead of rereading. Recalling answers from memory helps you remember longer.<eos>
+What is photosynthesis?
+Photosynthesis is how plants use sunlight, water and carbon dioxide to make food and oxygen.<eos>
+What is the capital of Iran?
+The capital of Iran is Tehran.<eos>
+Define electricity.
+Electricity is a form of energy caused by the flow of tiny charged particles called electrons.<eos>
+How can I stay healthy?
+Eat a mix of fruits and vegetables, move every day, drink water and get enough sleep.<eos>
+Tell me the capital of Colombia.
+The capital of Colombia is Bogota.<eos>
+Are you a robot?
+I'm an AI chatbot, not a human, but I'm happy to chat.<eos>
+Define a mammal.
+A mammal is a warm-blooded animal that has hair and feeds its young with milk.<eos>
+Can you explain a chatbot?
+A chatbot is a program that talks with people using text or voice.<eos>
+which city is the capital of portugal
+The capital of Portugal is Lisbon.<eos>
+Good afternoon.
+Hi there! What can I do for you?<eos>
+which city is the capital of brazil
+The capital of Brazil is Brasilia.<eos>
+What is the color of the sun?
+The sun is usually yellow.<eos>
+Tell me the capital of Poland.
+The capital of Poland is Warsaw.<eos>
+Bern is the capital of which country?
+Bern is the capital of Switzerland.<eos>
+Which city is the capital of Switzerland?
+The capital of Switzerland is Bern.<eos>
+How can I improve my writing?
+Read a lot, write a little every day and edit your work by reading it out loud.<eos>
+I feel good today.
+That's wonderful! What made it so good?<eos>
+Tell me the capital of Russia.
+The capital of Russia is Moscow.<eos>
+What is the capital of Germany?
+The capital of Germany is Berlin.<eos>
+which city is the capital of mexico
+The capital of Mexico is Mexico City.<eos>
+What is the currency of Japan?
+The currency of Japan is the yen.<eos>
+Say something funny.
+What do you call a fake noodle? An impasta.<eos>
+which city is the capital of cuba
+The capital of Cuba is Havana.<eos>
+Jakarta is the capital of which country?
+Jakarta is the capital of Indonesia.<eos>
+I'm bored.
+Try a short walk, a new song, a puzzle or a call to a friend. Want a joke or a fun fact?<eos>
+What is the closest planet to the sun?
+Mercury is the closest planet to the sun.<eos>
+Tell me the capital of Kenya.
+The capital of Kenya is Nairobi.<eos>
+Good afternoon.
+Hello! How can I help you today?<eos>
+how many legs does a dog have
+A dog has 4 legs.<eos>
+Do you sleep?
+No, I don't sleep. I'm always ready to chat.<eos>
+Which city is the capital of New Zealand?
+The capital of New Zealand is Wellington.<eos>
+introduce yourself
+I'm a small chatbot built to answer simple questions and chat.<eos>
+Tell me the capital of Sweden.
+The capital of Sweden is Stockholm.<eos>
+what is the capital of colombia
+The capital of Colombia is Bogota.<eos>
+What's the weather today?
+I can't check live weather, but a weather app will give you an accurate forecast.<eos>
+Why is the sky blue?
+The sky looks blue because air scatters blue light from the sun more than other colors.<eos>
+what is your name
+I'm a small chatbot built to answer simple questions and chat.<eos>
+cairo is the capital of which country
+Cairo is the capital of Egypt.<eos>
+Good evening.
+Hello! How can I help you today?<eos>
+Do you have feelings?
+I don't have feelings like people do, but I'm built to be friendly and helpful.<eos>
+what is democracy
+Democracy is a system of government where people vote to choose their leaders.<eos>
+What is artificial intelligence?
+Artificial intelligence is when computers are built to do tasks that normally need human thinking, like understanding language.<eos>
+Can you explain a noun?
+A noun is a word that names a person, place, thing or idea.<eos>
+What can I ask you?
+I can help with facts, advice, definitions and friendly conversation. What do you need?<eos>
+How many minutes are in an hour?
+There are 60 minutes in an hour.<eos>
+what do bees make
+Bees make honey and beeswax.<eos>
+Define a planet.
+A planet is a large object that orbits a star, like Earth orbits the sun.<eos>
+What is the capital of Vietnam?
+The capital of Vietnam is Hanoi.<eos>
+which city is the capital of ukraine
+The capital of Ukraine is Kyiv.<eos>
+How can I save money?
+Track your spending, set a monthly budget and put a little aside before you spend the rest.<eos>
+will it rain today
+I can't check live weather, but a weather app will give you an accurate forecast.<eos>
+how do i start exercising
+Start small with a daily walk, then slowly add time and simple exercises as it gets easier.<eos>
+Thanks a lot.
+No problem at all.<eos>
+What is climate?
+Climate is the usual pattern of weather in a place over many years.<eos>
+Which planet is called the red planet?
+Mars is called the red planet because of its reddish soil.<eos>
+Great.
+Glad that works. Is there anything else I can help with?<eos>
+Can you explain climate?
+Climate is the usual pattern of weather in a place over many years.<eos>
+What color is a lemon?
+A lemon is usually yellow.<eos>
+Do you know any jokes?
+Why did the scarecrow win an award? He was outstanding in his field.<eos>
+What is the time?
+I can't see a clock or calendar, so please check your device.<eos>
+What is the capital of Bangladesh?
+The capital of Bangladesh is Dhaka.<eos>
+what is the capital of chile
+The capital of Chile is Santiago.<eos>
+brussels is the capital of which country
+Brussels is the capital of Belgium.<eos>
+Yo.
+Hello! Ask me anything and I'll do my best.<eos>
+I'm sad.
+I'm sorry you're feeling that way. Do you want to talk about it?<eos>
+Tell me the capital of Pakistan.
+The capital of Pakistan is Islamabad.<eos>
+Can you explain an algorithm?
+An algorithm is a set of clear steps for solving a problem.<eos>
+talk to you later
+Bye! Come back anytime.<eos>
+Define a habitat.
+A habitat is the natural home of an animal or plant.<eos>
+Suggest a hobby.
+Try something creative like drawing, writing or playing a musical instrument.<eos>
+what time is it
+I don't have access to the current time or date. Your phone or computer will show it.<eos>
+What do plants need to grow?
+Plants need sunlight, water, air and nutrients from the soil.<eos>
+What should I do today?
+How about learning something small, like a new word or a quick sketch? I can tell you a fun fact too.<eos>
+Which city is the capital of Ukraine?
+The capital of Ukraine is Kyiv.<eos>
+what is the capital of south korea
+The capital of South Korea is Seoul.<eos>
+Good evening.
+Hello! Ask me anything and I'll do my best.<eos>
+Hi.
+Hey! Good to see you. What's on your mind?<eos>
+Which city is the capital of Poland?
+The capital of Poland is Warsaw.<eos>
+What is a mammal?
+A mammal is a warm-blooded animal that has hair and feeds its young with milk.<eos>
+Which city is the capital of Mexico?
+The capital of Mexico is Mexico City.<eos>
+Can you give me advice?
+Of course. Tell me what's going on and I'll try to help.<eos>
+Tell me a joke.
+What do you call a fake noodle? An impasta.<eos>
+how do i make friends
+Join a club or class, be curious about people and keep in touch with the ones you click with.<eos>
+Night night.
+Sweet dreams! Talk to you tomorrow.<eos>
+I'm sad.
+That sounds hard. Take a slow, deep breath. I'm here if you want to talk.<eos>
+why do we need water
+Water helps the body control temperature, move nutrients and keep organs working.<eos>
+hiya
+Hello! How can I help you today?<eos>
+define an atom
+An atom is the tiny building block of matter, made of protons, neutrons and electrons.<eos>
+Which city is the capital of Egypt?
+The capital of Egypt is Cairo.<eos>
+What color is a strawberry?
+A strawberry is usually red.<eos>
+Define an atom.
+An atom is the tiny building block of matter, made of protons, neutrons and electrons.<eos>
+Tell me the capital of Saudi Arabia.
+The capital of Saudi Arabia is Riyadh.<eos>
+Wellington is the capital of which country?
+Wellington is the capital of New Zealand.<eos>
+Which city is the capital of Brazil?
+The capital of Brazil is Brasilia.<eos>
+Canberra is the capital of which country?
+Canberra is the capital of Australia.<eos>
+Define an ecosystem.
+An ecosystem is a community of living things and their environment working together.<eos>
+i feel good today
+That's wonderful! What made it so good?<eos>
+What is the capital of Nigeria?
+The capital of Nigeria is Abuja.<eos>
+what is a habitat
+A habitat is the natural home of an animal or plant.<eos>
+What is the capital of Japan?
+The capital of Japan is Tokyo.<eos>
+What is the color of a banana?
+A banana is usually yellow.<eos>
+What is the capital of Italy?
+The capital of Italy is Rome.<eos>
+What language do people speak in Japan?
+Most people in Japan speak Japanese.<eos>
+What day is it?
+I don't have access to the current time or date. Your phone or computer will show it.<eos>
+tell me the capital of france
+The capital of France is Paris.<eos>
+what day is it
+I don't have access to the current time or date. Your phone or computer will show it.<eos>
+What is a computer?
+A computer is a machine that follows instructions to store and process information.<eos>
+how do i prepare for an exam
+Make a study plan, review key topics in short sessions and practice with old questions.<eos>
+what is the time
+I don't have access to the current time or date. Your phone or computer will show it.<eos>
+see you later
+See you later! Have a great day.<eos>
+Can you explain an adjective?
+An adjective is a word that describes a noun, like big or red.<eos>
+I'm bored.
+How about learning something small, like a new word or a quick sketch? I can tell you a fun fact too.<eos>
+What is the capital of Ukraine?
+The capital of Ukraine is Kyiv.<eos>
+How many seconds are in a minute?
+There are 60 seconds in a minute.<eos>
+What is the capital of Finland?
+The capital of Finland is Helsinki.<eos>
+can you explain democracy
+Democracy is a system of government where people vote to choose their leaders.<eos>
+Can you explain democracy?
+Democracy is a system of government where people vote to choose their leaders.<eos>
+my bad
+That's okay, don't worry about it.<eos>
+tell me the capital of russia
+The capital of Russia is Moscow.<eos>
+I'm having a bad day.
+That sounds hard. Take a slow, deep breath. I'm here if you want to talk.<eos>
+How can I wake up early?
+Go to bed at the same time each night and put your alarm across the room.<eos>
+Brasilia is the capital of which country?
+Brasilia is the capital of Brazil.<eos>
+I got good news.
+Great news! I'd love to hear about it.<eos>
+Beijing is the capital of which country?
+Beijing is the capital of China.<eos>
+Alright.
+Great! Let me know if you need anything else.<eos>
+How do I boil an egg?
+Place the egg in boiling water for about nine minutes for a hard boil, then cool it in cold water.<eos>
+What is the capital of Saudi Arabia?
+The capital of Saudi Arabia is Riyadh.<eos>
+I had a great day.
+Great news! I'd love to hear about it.<eos>
+what day is it
+I can't see a clock or calendar, so please check your device.<eos>
+What is an adjective?
+An adjective is a word that describes a noun, like big or red.<eos>
+I'm exhausted.
+Rest is important. A short nap or an early night can help a lot.<eos>
+Athens is the capital of which country?
+Athens is the capital of Greece.<eos>
+Bogota is the capital of which country?
+Bogota is the capital of Colombia.<eos>
+what is the internet
+The internet is a global network that connects computers so they can share information.<eos>
+I'm happy.
+Great news! I'd love to hear about it.<eos>
+What is the capital of Brazil?
+The capital of Brazil is Brasilia.<eos>
+What time is it?
+I don't have access to the current time or date. Your phone or computer will show it.<eos>
+Tell me the capital of Ukraine.
+The capital of Ukraine is Kyiv.<eos>
+recommend a book
+Try The Little Prince. It's short, thoughtful and easy to enjoy.<eos>
+I have to go.
+Goodbye! Take care.<eos>
+Entertain me.
+Try a short walk, a new song, a puzzle or a call to a friend. Want a joke or a fun fact?<eos>
+which city is the capital of colombia
+The capital of Colombia is Bogota.<eos>
+Thank you.
+No problem at all.<eos>
+My bad.
+No worries at all.<eos>
+How can you help me?
+Ask me about science, geography, everyday tips or just chat. I'll do my best.<eos>
+Which city is the capital of Denmark?
+The capital of Denmark is Copenhagen.<eos>
+What's up?
+All good on my end. What can I do for you?<eos>
+Good morning.
+Hi! I'm ready to help. What would you like to talk about?<eos>
+Thanks a lot.
+You're welcome!<eos>
+see you later
+Bye! Come back anytime.<eos>
+Tell me something interesting.
+Lightning can be hotter than the surface of the sun.<eos>
+Which city is the capital of South Korea?
+The capital of South Korea is Seoul.<eos>
+how many legs does a butterfly have
+A butterfly has 6 legs.<eos>
+What should I call you?
+I'm a little language model trained on a tiny dataset. I'll do my best to help.<eos>
+What is the capital of South Korea?
+The capital of South Korea is Seoul.<eos>
+You are smart.
+Thanks, I appreciate that!<eos>
+Tell me about yourself.
+I'm a friendly chatbot. Ask me a question and I'll try to answer it.<eos>
+Define photosynthesis.
+Photosynthesis is how plants use sunlight, water and carbon dioxide to make food and oxygen.<eos>
+Kathmandu is the capital of which country?
+Kathmandu is the capital of Nepal.<eos>
+Tell me the capital of Ireland.
+The capital of Ireland is Dublin.<eos>
+Hiya.
+Hi there! What can I do for you?<eos>
+What is the capital of Kenya?
+The capital of Kenya is Nairobi.<eos>
+What is a recipe?
+A recipe is a set of instructions and ingredients for making a dish.<eos>
+do you have feelings
+I don't have feelings like people do, but I'm built to be friendly and helpful.<eos>
+What causes rain?
+Rain forms when water vapor cools into droplets in clouds and the droplets get heavy enough to fall.<eos>
+Can you explain the internet?
+The internet is a global network that connects computers so they can share information.<eos>
+what is the capital of vietnam
+The capital of Vietnam is Hanoi.<eos>
+What is the freezing point of water?
+Water freezes at 0 degrees Celsius, or 32 degrees Fahrenheit.<eos>
+Tell me the capital of Finland.
+The capital of Finland is Helsinki.<eos>
+Thanks.
+No problem at all.<eos>
+What is the color of grass?
+Grass is usually green.<eos>
+What can you do?
+I can answer simple questions, explain ideas, share tips and chat. Just ask!<eos>
+what's the weather today
+I don't have access to real-time weather. Your phone's weather app is the best place to look.<eos>
+what should i eat for breakfast
+Eggs, oatmeal, yogurt with fruit or toast with peanut butter are all easy and filling choices.<eos>
+Tell me the capital of Bangladesh.
+The capital of Bangladesh is Dhaka.<eos>
+Which animal is the largest on Earth?
+The blue whale is the largest animal on Earth.<eos>
+Havana is the capital of which country?
+Havana is the capital of Cuba.<eos>
+Which city is the capital of Saudi Arabia?
+The capital of Saudi Arabia is Riyadh.<eos>
+I'm having a bad day.
+I'm sorry to hear that. Small steps help, like a short walk or a glass of water. What happened?<eos>
+hello there
+Hi there! What can I do for you?<eos>
+How do I write a good essay?
+Start with a clear main idea, support it with examples and finish with a short conclusion.<eos>
+what is the capital of austria
+The capital of Austria is Vienna.<eos>
+Hi.
+Hi there! What can I do for you?<eos>
+What is a bank?
+A bank is an organization that keeps money safe and lends it to people and businesses.<eos>
+Night night.
+Good night! Sleep well.<eos>
+Why do we sleep?
+Sleep lets the body rest and repair, and it helps the brain store memories.<eos>
+thanks
+No problem at all.<eos>
+Who wrote Romeo and Juliet?
+William Shakespeare wrote Romeo and Juliet.<eos>
+define inflation
+Inflation is when prices rise over time, so each unit of money buys less.<eos>
+define a verb
+A verb is a word that describes an action or a state, like run or be.<eos>
+Which city is the capital of Colombia?
+The capital of Colombia is Bogota.<eos>
+What is five plus seven?
+Five plus seven is twelve.<eos>
+I'm feeling anxious.
+I'm sorry to hear that. Small steps help, like a short walk or a glass of water. What happened?<eos>
+Tell me the capital of Japan.
+The capital of Japan is Tokyo.<eos>
+talk to you later
+See you later! Have a great day.<eos>
+What is two plus two?
+Two plus two is four.<eos>
+What is the capital of Argentina?
+The capital of Argentina is Buenos Aires.<eos>
+Make me laugh.
+Why don't scientists trust atoms? Because they make up everything.<eos>
+Tell me the capital of Iran.
+The capital of Iran is Tehran.<eos>
+define a star
+A star is a huge ball of hot gas that gives off light and heat, like our sun.<eos>
+Which city is the capital of Germany?
+The capital of Germany is Berlin.<eos>
+What is the currency of the United Kingdom?
+The currency of the United Kingdom is the pound sterling.<eos>
+Tell me the capital of India.
+The capital of India is New Delhi.<eos>
+what is the capital of turkey
+The capital of Turkey is Ankara.<eos>
+Can you help me?
+Ask me about science, geography, everyday tips or just chat. I'll do my best.<eos>
+Good job.
+Thank you! That's kind of you to say.<eos>
+Which city is the capital of Nigeria?
+The capital of Nigeria is Abuja.<eos>
+Greetings.
+Hi! I'm ready to help. What would you like to talk about?<eos>
+What is the capital of Turkey?
+The capital of Turkey is Ankara.<eos>
+what color is a banana
+A banana is usually yellow.<eos>
+Rome is the capital of which country?
+Rome is the capital of Italy.<eos>
+Which city is the capital of Belgium?
+The capital of Belgium is Brussels.<eos>
+is it going to be sunny
+I can't check live weather, but a weather app will give you an accurate forecast.<eos>
+What is a habitat?
+A habitat is the natural home of an animal or plant.<eos>
+tell me the capital of mexico
+The capital of Mexico is Mexico City.<eos>
+which city is the capital of denmark
+The capital of Denmark is Copenhagen.<eos>
+Can you explain a fraction?
+A fraction is a number that shows part of a whole, like one half.<eos>
+which city is the capital of greece
+The capital of Greece is Athens.<eos>
+What's today's date?
+I can't see a clock or calendar, so please check your device.<eos>
+What is the color of the sky?
+The sky is usually blue.<eos>
+Define a computer.
+A computer is a machine that follows instructions to store and process information.<eos>
+I need help.
+I'm here to help. What do you need?<eos>
+How many hours are in a day?
+There are 24 hours in a day.<eos>
+Hiya.
+Hello! How can I help you today?<eos>
+how many legs does a cat have
+A cat has 4 legs.<eos>
+Which city is the capital of Spain?
+The capital of Spain is Madrid.<eos>
+Define an adjective.
+An adjective is a word that describes a noun, like big or red.<eos>
+How do I learn to code?
+Pick one language like Python, build small projects and practice a little every day.<eos>
+What is inflation?
+Inflation is when prices rise over time, so each unit of money buys less.<eos>
+Oops, sorry.
+It's fine! Let's keep going.<eos>
+Which city is the capital of Finland?
+The capital of Finland is Helsinki.<eos>
+Define a noun.
+A noun is a word that names a person, place, thing or idea.<eos>
+What is the internet?
+The internet is a global network that connects computers so they can share information.<eos>
+Kyiv is the capital of which country?
+Kyiv is the capital of Ukraine.<eos>
+Nice.
+Glad that works. Is there anything else I can help with?<eos>
+Tell me the capital of Denmark.
+The capital of Denmark is Copenhagen.<eos>
+can you explain inflation
+Inflation is when prices rise over time, so each unit of money buys less.<eos>
+how can i save money
+Track your spending, set a monthly budget and put a little aside before you spend the rest.<eos>
+tell me a joke
+What do you call a fake noodle? An impasta.<eos>
+Tell me the capital of Switzerland.
+The capital of Switzerland is Bern.<eos>
+What is the capital of Sweden?
+The capital of Sweden is Stockholm.<eos>
+Which city is the capital of Canada?
+The capital of Canada is Ottawa.<eos>
+What is the capital of Ireland?
+The capital of Ireland is Dublin.<eos>
+what is the capital of australia
+The capital of Australia is Canberra.<eos>
+Define a fraction.
+A fraction is a number that shows part of a whole, like one half.<eos>
+Which city is the capital of Russia?
+The capital of Russia is Moscow.<eos>
+Cairo is the capital of which country?
+Cairo is the capital of Egypt.<eos>
+How are you doing?
+All good on my end. What can I do for you?<eos>
+You are smart.
+Thank you! That's kind of you to say.<eos>
+What should I eat for breakfast?
+Eggs, oatmeal, yogurt with fruit or toast with peanut butter are all easy and filling choices.<eos>
+Yo.
+Hi! I'm ready to help. What would you like to talk about?<eos>
+What is the capital of Belgium?
+The capital of Belgium is Brussels.<eos>
+Can you explain a habitat?
+A habitat is the natural home of an animal or plant.<eos>
+how can i reduce stress
+Try deep breathing, a short walk, enough sleep and talking to someone you trust.<eos>
+Oops, sorry.
+No worries at all.<eos>
+How many legs does a crab have?
+A crab has 10 legs.<eos>
+thank you so much
+You're welcome!<eos>
+what is the capital of pakistan
+The capital of Pakistan is Islamabad.<eos>
+Which city is the capital of Pakistan?
+The capital of Pakistan is Islamabad.<eos>
+what can i ask you
+I can help with facts, advice, definitions and friendly conversation. What do you need?<eos>
+Teach me something new.
+Sharks existed before trees did.<eos>
+define a recipe
+A recipe is a set of instructions and ingredients for making a dish.<eos>
+how many planets are in the solar system
+There are eight planets in our solar system.<eos>
+who are you
+I'm a small chatbot built to answer simple questions and chat.<eos>
+share an interesting fact
+Sharks existed before trees did.<eos>
+tell me the capital of ukraine
+The capital of Ukraine is Kyiv.<eos>
+define a volcano
+A volcano is an opening in the Earth's crust where hot melted rock, ash and gas can escape.<eos>
+What time is it?
+I can't see a clock or calendar, so please check your device.<eos>
+Cheers.
+You're welcome!<eos>
+See you soon.
+Bye! Come back anytime.<eos>
+How do I learn a new language?
+Practice daily, learn common words first and try speaking from the start even if you make mistakes.<eos>
+i have nothing to do
+How about learning something small, like a new word or a quick sketch? I can tell you a fun fact too.<eos>
+Define an earthquake.
+An earthquake is shaking of the ground caused by movement of rock deep in the Earth.<eos>
+What is the color of coal?
+Coal is usually black.<eos>
+Tell me the capital of Canada.
+The capital of Canada is Ottawa.<eos>
+Which city is the capital of Portugal?
+The capital of Portugal is Lisbon.<eos>
+Define a recipe.
+A recipe is a set of instructions and ingredients for making a dish.<eos>
+okay
+Great! Let me know if you need anything else.<eos>
+What color is the sky?
+The sky is usually blue.<eos>
+What is the capital of Cuba?
+The capital of Cuba is Havana.<eos>
+What is the capital of Mexico?
+The capital of Mexico is Mexico City.<eos>
+I appreciate it.
+No problem at all.<eos>
+tell me the capital of egypt
+The capital of Egypt is Cairo.<eos>
+How are you doing?
+I'm doing well, thanks for asking. How about you?<eos>
+Hi there.
+Hello! How can I help you today?<eos>
+i appreciate it
+No problem at all.<eos>
+Talk to you later.
+See you later! Have a great day.<eos>
+what is your favorite color
+I don't see colors, but blue sounds calm and nice. What's yours?<eos>
+Which animal is the fastest on land?
+The cheetah is the fastest land animal.<eos>
+Tell me a fun fact.
+Bananas are technically berries, but strawberries are not.<eos>
+How many legs does a spider have?
+A spider has 8 legs.<eos>
+Lisbon is the capital of which country?
+Lisbon is the capital of Portugal.<eos>
+Define a star.
+A star is a huge ball of hot gas that gives off light and heat, like our sun.<eos>
+Are you a robot?
+I'm a chatbot, which is a computer program, not a human.<eos>
+which city is the capital of thailand
+The capital of Thailand is Bangkok.<eos>
+What are you good at?
+I can answer simple questions, explain ideas, share tips and chat. Just ask!<eos>
+What is ten times ten?
+Ten times ten is one hundred.<eos>
+what do plants need to grow
+Plants need sunlight, water, air and nutrients from the soil.<eos>
+How many legs does a chicken have?
+A chicken has 2 legs.<eos>
+Can you explain artificial intelligence?
+Artificial intelligence is when computers are built to do tasks that normally need human thinking, like understanding language.<eos>
+tokyo is the capital of which country
+Tokyo is the capital of Japan.<eos>
+What is the color of a tomato?
+A tomato is usually red.<eos>
+what is your name
+I'm a friendly chatbot. Ask me a question and I'll try to answer it.<eos>
+How many continents are there?
+There are seven continents: Africa, Antarctica, Asia, Australia, Europe, North America and South America.<eos>
+What is democracy?
+Democracy is a system of government where people vote to choose their leaders.<eos>
+What is the capital of Chile?
+The capital of Chile is Santiago.<eos>
+How many days are in a week?
+There are seven days in a week.<eos>
+which city is the capital of pakistan
+The capital of Pakistan is Islamabad.<eos>
+Greetings.
+Hello! How can I help you today?<eos>
+make me laugh
+What do you call a fake noodle? An impasta.<eos>
+What is the capital of Netherlands?
+The capital of Netherlands is Amsterdam.<eos>
+tell me the capital of netherlands
+The capital of Netherlands is Amsterdam.<eos>
+i'm tired
+Rest is important. A short nap or an early night can help a lot.<eos>
+Are you an AI?
+I'm an AI chatbot, not a human, but I'm happy to chat.<eos>
+define a fraction
+A fraction is a number that shows part of a whole, like one half.<eos>
+Tell me the capital of Brazil.
+The capital of Brazil is Brasilia.<eos>
+Tell me the capital of Spain.
+The capital of Spain is Madrid.<eos>
+Vienna is the capital of which country?
+Vienna is the capital of Austria.<eos>
+Which city is the capital of France?
+The capital of France is Paris.<eos>
+Lima is the capital of which country?
+Lima is the capital of Peru.<eos>
+You're helpful.
+Thank you! That's kind of you to say.<eos>
+I'm going to bed.
+Good night! Sleep well.<eos>
+Got any jokes?
+Why don't scientists trust atoms? Because they make up everything.<eos>
+What is the capital of Peru?
+The capital of Peru is Lima.<eos>
+Okay.
+Great! Let me know if you need anything else.<eos>
+what is the closest planet to the sun
+Mercury is the closest planet to the sun.<eos>
+abuja is the capital of which country
+Abuja is the capital of Nigeria.<eos>
+What is an atom?
+An atom is the tiny building block of matter, made of protons, neutrons and electrons.<eos>
+What is a star?
+A star is a huge ball of hot gas that gives off light and heat, like our sun.<eos>
+what is the color of milk
+Milk is usually white.<eos>
+Can you explain a bank?
+A bank is an organization that keeps money safe and lends it to people and businesses.<eos>
+Goodbye.
+Bye! Come back anytime.<eos>
+what is the color of snow
+Snow is usually white.<eos>
+what color is chocolate
+Chocolate is usually brown.<eos>
+What is the capital of Indonesia?
+The capital of Indonesia is Jakarta.<eos>
+Tell me the capital of Austria.
+The capital of Austria is Vienna.<eos>
+which city is the capital of south korea
+The capital of South Korea is Seoul.<eos>
+Hey there.
+Hi! I'm ready to help. What would you like to talk about?<eos>
+Can you explain a recipe?
+A recipe is a set of instructions and ingredients for making a dish.<eos>
+Who are you?
+I'm a friendly chatbot. Ask me a question and I'll try to answer it.<eos>
+What is a good hobby?
+Drawing, reading, cooking, gardening and learning an instrument are all rewarding hobbies.<eos>
+How many planets are in the solar system?
+There are eight planets in our solar system.<eos>
+Introduce yourself.
+I'm a small chatbot built to answer simple questions and chat.<eos>
+I have nothing to do.
+Try a short walk, a new song, a puzzle or a call to a friend. Want a joke or a fun fact?<eos>
+What is the capital of Greece?
+The capital of Greece is Athens.<eos>
+Which city is the capital of Vietnam?
+The capital of Vietnam is Hanoi.<eos>
+Who are you?
+I'm a small chatbot built to answer simple questions and chat.<eos>
+What do bees make?
+Bees make honey and beeswax.<eos>
+Tell me the capital of Norway.
+The capital of Norway is Oslo.<eos>
+Got it.
+Glad that works. Is there anything else I can help with?<eos>
+Hi there.
+Hey! Good to see you. What's on your mind?<eos>
+cool
+Great! Let me know if you need anything else.<eos>
+how are you
+Doing fine, thank you. How are you?<eos>
+What's today's date?
+I don't have access to the current time or date. Your phone or computer will show it.<eos>
+what is the freezing point of water
+Water freezes at 0 degrees Celsius, or 32 degrees Fahrenheit.<eos>
+great
+Glad that works. Is there anything else I can help with?<eos>
+Bye.
+Goodbye! Take care.<eos>
+Share an interesting fact.
+A day on Venus is longer than a year on Venus.<eos>
+Tell me something interesting.
+Wombat droppings are cube-shaped.<eos>
+Are you a real person?
+I'm a chatbot, which is a computer program, not a human.<eos>
+I feel stressed.
+That sounds hard. Take a slow, deep breath. I'm here if you want to talk.<eos>
+What rhymes with cat?
+Hat, bat, mat and rat all rhyme with cat.<eos>
+i feel sleepy
+Rest is important. A short nap or an early night can help a lot.<eos>
+can you explain a fraction
+A fraction is a number that shows part of a whole, like one half.<eos>
+how many legs does a cow have
+A cow has 4 legs.<eos>
+How many legs does a bee have?
+A bee has 6 legs.<eos>
+are you a real person
+I'm a chatbot, which is a computer program, not a human.<eos>
+where do you live
+I live inside a computer, so I'm always nearby when you need me.<eos>
+Hey.
+Hello! How can I help you today?<eos>
+Ok.
+Great! Let me know if you need anything else.<eos>
+What is your name?
+I'm a small chatbot built to answer simple questions and chat.<eos>
+tell me the capital of sweden
+The capital of Sweden is Stockholm.<eos>
+Okay.
+Glad that works. Is there anything else I can help with?<eos>
+What is the opposite of hot?
+The opposite of hot is cold.<eos>
+Can you explain an earthquake?
+An earthquake is shaking of the ground caused by movement of rock deep in the Earth.<eos>
+What is a noun?
+A noun is a word that names a person, place, thing or idea.<eos>
+see you soon
+Bye! Come back anytime.<eos>
+can i ask you something
+Of course. Ask away.<eos>
+Which city is the capital of Peru?
+The capital of Peru is Lima.<eos>
+what is the largest planet
+Jupiter is the largest planet in our solar system.<eos>
+Tell me the capital of Argentina.
+The capital of Argentina is Buenos Aires.<eos>
+Tell me something interesting.
+The Eiffel Tower grows a few centimeters taller in summer because heat expands the metal.<eos>
+What is the capital of Spain?
+The capital of Spain is Madrid.<eos>
+Make me laugh.
+What do you call a fake noodle? An impasta.<eos>
+how do i boil an egg
+Place the egg in boiling water for about nine minutes for a hard boil, then cool it in cold water.<eos>
+How can I be more productive?
+Make a short to-do list, start with the hardest task and turn off notifications while you work.<eos>
+Give me a fun fact.
+The Eiffel Tower grows a few centimeters taller in summer because heat expands the metal.<eos>
+which planet is called the red planet
+Mars is called the red planet because of its reddish soil.<eos>
+Which city is the capital of Nepal?
+The capital of Nepal is Kathmandu.<eos>
+How many days are in a year?
+A regular year has 365 days, and a leap year has 366.<eos>
+I have a question.
+Sure, go ahead and ask.<eos>
+How do I cook rice?
+Rinse the rice, add about twice as much water, bring it to a boil, then cover and simmer for fifteen minutes.<eos>
+lima is the capital of which country
+Lima is the capital of Peru.<eos>
+Where do you live?
+I live inside a computer, so I'm always nearby when you need me.<eos>
+can you help me
+Ask me about science, geography, everyday tips or just chat. I'll do my best.<eos>
+kyiv is the capital of which country
+Kyiv is the capital of Ukraine.<eos>
+i'm exhausted
+Rest is important. A short nap or an early night can help a lot.<eos>
+What is the capital of China?
+The capital of China is Beijing.<eos>
+I feel down.
+I'm sorry you're feeling that way. Do you want to talk about it?<eos>
+Define an algorithm.
+An algorithm is a set of clear steps for solving a problem.<eos>
+How can I sleep better?
+Keep a regular bedtime, avoid screens before bed and keep your room dark and cool.<eos>
+who wrote romeo and juliet
+William Shakespeare wrote Romeo and Juliet.<eos>
+Tell me the capital of Netherlands.
+The capital of Netherlands is Amsterdam.<eos>
+I'm tired.
+Rest is important. A short nap or an early night can help a lot.<eos>
+which city is the capital of france
+The capital of France is Paris.<eos>
+Is it going to be sunny?
+I can't check live weather, but a weather app will give you an accurate forecast.<eos>
+what is the capital of iran
+The capital of Iran is Tehran.<eos>
+What is an ecosystem?
+An ecosystem is a community of living things and their environment working together.<eos>
+Brussels is the capital of which country?
+Brussels is the capital of Belgium.<eos>
+My bad.
+That's okay, don't worry about it.<eos>
+What is the tallest mountain?
+Mount Everest is the tallest mountain above sea level, at about 8,849 meters.<eos>
+See you soon.
+See you later! Have a great day.<eos>
+What is your favorite color?
+I don't see colors, but blue sounds calm and nice. What's yours?<eos>
+I appreciate it.
+Happy to help!<eos>
+Alright.
+Sounds good!<eos>
+What is the capital of Denmark?
+The capital of Denmark is Copenhagen.<eos>
+Good job.
+Glad I could help!<eos>
+Which city is the capital of Argentina?
+The capital of Argentina is Buenos Aires.<eos>
+Define a chatbot.
+A chatbot is a program that talks with people using text or voice.<eos>
+hello
+Hello! Ask me anything and I'll do my best.<eos>
+Can you explain gravity?
+Gravity is the force that pulls objects toward each other, like the Earth pulling things down.<eos>
+How have you been?
+All good on my end. What can I do for you?<eos>
+what is the capital of germany
+The capital of Germany is Berlin.<eos>
+Which city is the capital of Austria?
+The capital of Austria is Vienna.<eos>
+seoul is the capital of which country
+Seoul is the capital of South Korea.<eos>
+You're great.
+Glad I could help!<eos>
+Which city is the capital of Chile?
+The capital of Chile is Santiago.<eos>
+How many months are in a year?
+There are twelve months in a year.<eos>
+Define a verb.
+A verb is a word that describes an action or a state, like run or be.<eos>
+tell me the capital of nepal
+The capital of Nepal is Kathmandu.<eos>
+what is electricity
+Electricity is a form of energy caused by the flow of tiny charged particles called electrons.<eos>
+Tell me the capital of South Korea.
+The capital of South Korea is Seoul.<eos>
+What color is snow?
+Snow is usually white.<eos>
+Moscow is the capital of which country?
+Moscow is the capital of Russia.<eos>
+Buenos Aires is the capital of which country?
+Buenos Aires is the capital of Argentina.<eos>
+How do I stay focused?
+Remove distractions, work in short blocks of 25 minutes and take small breaks between them.<eos>
+give me a fun fact
+The Eiffel Tower grows a few centimeters taller in summer because heat expands the metal.<eos>
+Do you know any jokes?
+Why don't scientists trust atoms? Because they make up everything.<eos>
+Tell me the capital of Egypt.
+The capital of Egypt is Cairo.<eos>
+Hello there.
+Hi! I'm ready to help. What would you like to talk about?<eos>
+Tell me a fun fact.
+Honey never spoils. Archaeologists have found edible honey in ancient tombs.<eos>
+Can you explain a star?
+A star is a huge ball of hot gas that gives off light and heat, like our sun.<eos>
+I got good news.
+That's wonderful! What made it so good?<eos>
+Can you explain a planet?
+A planet is a large object that orbits a star, like Earth orbits the sun.<eos>
+What is the capital of New Zealand?
+The capital of New Zealand is Wellington.<eos>
+How do I prepare for an exam?
+Make a study plan, review key topics in short sessions and practice with old questions.<eos>
+Riyadh is the capital of which country?
+Riyadh is the capital of Saudi Arabia.<eos>
+What is the color of milk?
+Milk is usually white.<eos>
+What is the color of chocolate?
+Chocolate is usually brown.<eos>
+Got it.
+Sounds good!<eos>
+How do you spell the word friend?
+Friend is spelled F, R, I, E, N, D.<eos>
+what is a bank
+A bank is an organization that keeps money safe and lends it to people and businesses.<eos>
+Thank you.
+You're welcome!<eos>
+how can i wake up early
+Go to bed at the same time each night and put your alarm across the room.<eos>
+define a chatbot
+A chatbot is a program that talks with people using text or voice.<eos>
+Hello.
+Hello! How can I help you today?<eos>
+What is the capital of India?
+The capital of India is New Delhi.<eos>
+Tell me the capital of Germany.
+The capital of Germany is Berlin.<eos>
+What is the capital of Russia?
+The capital of Russia is Moscow.<eos>
+I don't understand.
+No problem. Tell me which part is confusing and I'll explain it another way.<eos>
+Introduce yourself.
+I'm a friendly chatbot. Ask me a question and I'll try to answer it.<eos>
+what is the largest ocean
+The Pacific Ocean is the largest ocean on Earth.<eos>
+Abuja is the capital of which country?
+Abuja is the capital of Nigeria.<eos>
+Tell me the capital of France.
+The capital of France is Paris.<eos>
+Seoul is the capital of which country?
+Seoul is the capital of South Korea.<eos>
+Ankara is the capital of which country?
+Ankara is the capital of Turkey.<eos>
+give me a fun fact
+Wombat droppings are cube-shaped.<eos>
+tell me the capital of greece
+The capital of Greece is Athens.<eos>
+Share an interesting fact.
+Sharks existed before trees did.<eos>
+Recommend a book.
+Try The Little Prince. It's short, thoughtful and easy to enjoy.<eos>
+What can I ask you?
+Ask me about science, geography, everyday tips or just chat. I'll do my best.<eos>
+Thanks.
+Anytime! Let me know if you need anything else.<eos>
+What color is milk?
+Milk is usually white.<eos>
+How have you been?
+Doing fine, thank you. How are you?<eos>
+What is the capital of Pakistan?
+The capital of Pakistan is Islamabad.<eos>
+What should I call you?
+I'm a small chatbot built to answer simple questions and chat.<eos>
+Tell me the capital of Cuba.
+The capital of Cuba is Havana.<eos>
+how do i make tea
+Boil water, pour it over a tea bag in a cup, wait three to five minutes and remove the bag.<eos>
+How do I memorize things faster?
+Break the material into small parts, repeat it out loud and review it again after a day.<eos>
+What is the capital of Switzerland?
+The capital of Switzerland is Bern.<eos>
+how can i stay healthy
+Eat a mix of fruits and vegetables, move every day, drink water and get enough sleep.<eos>
+How do you feel today?
+I'm doing well, thanks for asking. How about you?<eos>
+What color is chocolate?
+Chocolate is usually brown.<eos>
+What is the capital of Thailand?
+The capital of Thailand is Bangkok.<eos>
+Mexico City is the capital of which country?
+Mexico City is the capital of Mexico.<eos>
+Teach me something new.
+Honey never spoils. Archaeologists have found edible honey in ancient tombs.<eos>
+How many legs does a bird have?
+A bird has 2 legs.<eos>
+Define artificial intelligence.
+Artificial intelligence is when computers are built to do tasks that normally need human thinking, like understanding language.<eos>
+Which city is the capital of Indonesia?
+The capital of Indonesia is Jakarta.<eos>
+Share an interesting fact.
+Bananas are technically berries, but strawberries are not.<eos>
+What is the color of a carrot?
+A carrot is usually orange.<eos>
+Are you a real person?
+I'm an AI chatbot, not a human, but I'm happy to chat.<eos>
+Good night.
+Sweet dreams! Talk to you tomorrow.<eos>
+Tell me the capital of New Zealand.
+The capital of New Zealand is Wellington.<eos>
+What is the capital of Canada?
+The capital of Canada is Ottawa.<eos>
+Which city is the capital of Ireland?
+The capital of Ireland is Dublin.<eos>
+Which city is the capital of Bangladesh?
+The capital of Bangladesh is Dhaka.<eos>
+What is the largest ocean?
+The Pacific Ocean is the largest ocean on Earth.<eos>
+how have you been
+Doing fine, thank you. How are you?<eos>
+I'm feeling anxious.
+I'm sorry you're feeling that way. Do you want to talk about it?<eos>
+Tell me the capital of Belgium.
+The capital of Belgium is Brussels.<eos>
+Oslo is the capital of which country?
+Oslo is the capital of Norway.<eos>
+Talk to you later.
+Bye! Come back anytime.<eos>
+Tell me the capital of Italy.
+The capital of Italy is Rome.<eos>
+See you later.
+Bye! Come back anytime.<eos>
+Hello.
+Hello! Ask me anything and I'll do my best.<eos>
+Cool.
+Great! Let me know if you need anything else.<eos>
+What is the weather like?
+I can't check live weather, but a weather app will give you an accurate forecast.<eos>
+How many legs does an ant have?
+An ant has 6 legs.<eos>
+Nairobi is the capital of which country?
+Nairobi is the capital of Kenya.<eos>
+Tell me the capital of Indonesia.
+The capital of Indonesia is Jakarta.<eos>
+Islamabad is the capital of which country?
+Islamabad is the capital of Pakistan.<eos>
+what is the capital of poland
+The capital of Poland is Warsaw.<eos>
+Ottawa is the capital of which country?
+Ottawa is the capital of Canada.<eos>
+What's up?
+I'm doing well, thanks for asking. How about you?<eos>
+What is the color of a lemon?
+A lemon is usually yellow.<eos>
+What is an earthquake?
+An earthquake is shaking of the ground caused by movement of rock deep in the Earth.<eos>
+what is the capital of mexico
+The capital of Mexico is Mexico City.<eos>
+Give me a fun fact.
+Wombat droppings are cube-shaped.<eos>
+Teach me something new.
+Bananas are technically berries, but strawberries are not.<eos>
+Which city is the capital of Kenya?
+The capital of Kenya is Nairobi.<eos>
+Well done.
+Thank you! That's kind of you to say.<eos>
+See you later.
+See you later! Have a great day.<eos>
+Great.
+Sounds good!<eos>
+Which city is the capital of Australia?
+The capital of Australia is Canberra.<eos>
+what is a star
+A star is a huge ball of hot gas that gives off light and heat, like our sun.<eos>
+How many legs does a cow have?
+A cow has 4 legs.<eos>
+what is artificial intelligence
+Artificial intelligence is when computers are built to do tasks that normally need human thinking, like understanding language.<eos>
+Tell me a fun fact.
+Wombat droppings are cube-shaped.<eos>
+Can you help me?
+I can help with facts, advice, definitions and friendly conversation. What do you need?<eos>
+can you explain an atom
+An atom is the tiny building block of matter, made of protons, neutrons and electrons.<eos>
+Are you an AI?
+I'm a chatbot, which is a computer program, not a human.<eos>
+Which city is the capital of Netherlands?
+The capital of Netherlands is Amsterdam.<eos>
+I have nothing to do.
+How about learning something small, like a new word or a quick sketch? I can tell you a fun fact too.<eos>
+good job
+Glad I could help!<eos>
+How are you?
+I'm doing well, thanks for asking. How about you?<eos>
+What is nine minus four?
+Nine minus four is five.<eos>
+What can you do?
+Ask me about science, geography, everyday tips or just chat. I'll do my best.<eos>
+Tell me the capital of Chile.
+The capital of Chile is Santiago.<eos>
+What should I do today?
+Try a short walk, a new song, a puzzle or a call to a friend. Want a joke or a fun fact?<eos>
+you are smart
+Thank you! That's kind of you to say.<eos>
+How can you help me?
+I can answer simple questions, explain ideas, share tips and chat. Just ask!<eos>
+warsaw is the capital of which country
+Warsaw is the capital of Poland.<eos>
+Amsterdam is the capital of which country?
+Amsterdam is the capital of Netherlands.<eos>
