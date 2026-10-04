@@ -4,7 +4,7 @@ import streamlit as st
 API_URL = "https://neural-networks-wked.onrender.com/Post_values"
 
 st.set_page_config(page_title="Chatbot", page_icon="🤖")
-st.title("🤖 IQ of A, Explanation like K. Project 5 result failure!.")
+st.title("🤖 Epsilon.")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
