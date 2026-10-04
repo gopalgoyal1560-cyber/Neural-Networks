@@ -1,4 +1,6 @@
 numpy
 torch
 matplotlib
-scikit-learn
+tokenizers
+fastapi
+uvicorn
